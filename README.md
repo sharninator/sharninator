@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🐕 lover of dogs
+- 🐍 learning python 
+- 🕸️ learning javascript and web things...
+- 🤓 general nerd
+
 <!--
 **sharninator/sharninator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
